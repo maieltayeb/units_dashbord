@@ -1,0 +1,16 @@
+
+.slidShowContainer
+{
+    max-width:100%;
+}
+.slidShow
+    {
+        max-width: 100%;
+        position: relative;
+        height:400px;
+        overflow: hidden;
+       color: white;
+    }
+
+
+
